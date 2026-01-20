@@ -1,0 +1,12 @@
+# Go
+backend/tmp
+backend/*.exe
+
+# Node / Expo
+frontend/leaderboard-app/node_modules
+frontend/leaderboard-app/.expo
+frontend/leaderboard-app/dist
+
+# OS
+.DS_Store
+Thumbs.db
